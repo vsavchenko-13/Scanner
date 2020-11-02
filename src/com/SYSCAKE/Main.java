@@ -18,6 +18,6 @@ public class Main {
         quote = quote + scan.nextLine();
 
         System.out.println("Thank you " + name + " you are " + age + " years old");
-        System.out.println("and your quote is this " + quote);
+        System.out.println("and your quote is this text " + quote);
     }
 }
